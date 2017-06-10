@@ -1,2 +1,3 @@
 # hello-worldv2
-Hello World Introductory Excercise
+Hello World Introductory Exercise
+Hello brave, new world!
